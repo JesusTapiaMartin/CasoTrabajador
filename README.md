@@ -1,3 +1,3 @@
 # CasoTrabajador
 ## Jesús Tapia Martin
-![image](https://github.com/JesusTapiaMartin/CasoTrabajador/assets/142464450/f690cd37-ca36-4399-a03b-996865c50261)
+![1](https://github.com/JesusTapiaMartin/CasoTrabajador/assets/142464450/041081f1-7f6f-4a16-9ed4-6d940afd93c7)
