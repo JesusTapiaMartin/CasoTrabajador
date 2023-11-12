@@ -18,20 +18,8 @@ public class Trabajador extends Persona {
         this.afp    = afp;
     }
 
-    public Trabajador(  String isapre   , String afp) {
-        this.isapre = isapre;
-        this.afp    = afp;
-    }
-
-
-    // ===== CONSTRUCTOR VACÍO =====
-    public Trabajador(String nombre, String apellido, String rut) {
-        super(nombre, apellido, rut);
-    }
-
     public Trabajador() {
     }
-
 
 
     // ===== GETTER =====
